@@ -1,0 +1,44 @@
+# ninja log v6
+1180	4268	7529555842214370	CMakeFiles/SEMIFNAL.dir/SEMIFNAL_autogen/mocs_compilation.cpp.obj	4536d0d2b0b705e3
+38	224	7529563496712462	SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+225	3652	7529563498572219	CMakeFiles/SEMIFNAL.dir/mainwindow.cpp.obj	a68fcad87ebd7451
+38	224	7529563496712462	SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+38	224	7529563496712462	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+3652	4002	7529563532853873	SEMIFNAL.exe	7703637eb51e91
+38	224	7529563496712462	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+1184	4193	7529555842254515	CMakeFiles/SEMIFNAL.dir/main.cpp.obj	3250dff8bc0d536a
+23	709	7529431295915202	build.ninja	2847325acc7af7a7
+14	37	7529468791825250	CMakeFiles/clean.additional	baedbe210acaa455
+37	46	7529468792054926	clean	577b940aee94fbd7
+36	232	7529563981708846	SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+36	232	7529563981708846	SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+36	232	7529563981708846	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+36	232	7529563981708846	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+233	3640	7529563983671484	CMakeFiles/SEMIFNAL.dir/mainwindow.cpp.obj	a68fcad87ebd7451
+3640	4026	7529564017743704	SEMIFNAL.exe	7703637eb51e91
+41	228	7529564863078363	SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+41	228	7529564863078363	SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+41	228	7529564863078363	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+41	228	7529564863078363	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+229	3775	7529564864962012	CMakeFiles/SEMIFNAL.dir/mainwindow.cpp.obj	a68fcad87ebd7451
+3776	4302	7529564900428059	SEMIFNAL.exe	7703637eb51e91
+30	298	7529565710387042	SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+30	298	7529565710387042	SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+30	298	7529565710387042	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+30	298	7529565710387042	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+299	3464	7529565713073879	CMakeFiles/SEMIFNAL.dir/mainwindow.cpp.obj	a68fcad87ebd7451
+3464	3880	7529565744728469	SEMIFNAL.exe	7703637eb51e91
+33	198	7529566705643666	SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+33	198	7529566705643666	SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+33	198	7529566705643666	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+33	198	7529566705643666	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+200	3720	7529566707308704	CMakeFiles/SEMIFNAL.dir/mainwindow.cpp.obj	a68fcad87ebd7451
+3720	4162	7529566742510658	SEMIFNAL.exe	7703637eb51e91
+31	879	7529571453265143	SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+31	879	7529571453265143	SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+31	879	7529571453265143	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/timestamp	1f6d5a47d51ba6e0
+31	879	7529571453265143	D:/project semi/SEMIFNAL/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SEMIFNAL_autogen/mocs_compilation.cpp	1f6d5a47d51ba6e0
+884	5144	7529571454170186	CMakeFiles/SEMIFNAL.dir/main.cpp.obj	3250dff8bc0d536a
+880	5147	7529571454130199	CMakeFiles/SEMIFNAL.dir/SEMIFNAL_autogen/mocs_compilation.cpp.obj	4536d0d2b0b705e3
+888	5247	7529571454210202	CMakeFiles/SEMIFNAL.dir/mainwindow.cpp.obj	a68fcad87ebd7451
+5247	5659	7529571497804705	SEMIFNAL.exe	7703637eb51e91

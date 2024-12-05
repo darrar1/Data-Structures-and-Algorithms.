@@ -1,0 +1,9 @@
+# ninja log v6
+19	2662	7535569065020009	SEMIFNAL_autogen/timestamp	18d6506930042fde
+19	2662	7535569065020009	SEMIFNAL_autogen/mocs_compilation.cpp	18d6506930042fde
+19	2662	7535569065020009	D:/project semi/SEMIFNAL/build/Semi finals Groupings/SEMIFNAL_autogen/timestamp	18d6506930042fde
+19	2662	7535569065020009	D:/project semi/SEMIFNAL/build/Semi finals Groupings/SEMIFNAL_autogen/mocs_compilation.cpp	18d6506930042fde
+2669	10794	7535569067191146	CMakeFiles/SEMIFNAL.dir/SEMIFNAL_autogen/mocs_compilation.cpp.obj	4fde9625cd5d4e64
+2728	11556	7535569067788633	CMakeFiles/SEMIFNAL.dir/main.cpp.obj	159ff5bc02a1909e
+2799	15076	7535569068501777	CMakeFiles/SEMIFNAL.dir/mainwindow.cpp.obj	2df9988cfdf79ec6
+15077	16203	7535569191273172	SEMIFNAL.exe	3b0e1153e05233eb
